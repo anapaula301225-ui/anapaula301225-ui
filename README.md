@@ -1,7 +1,3 @@
-\<!-- BANNER -->
-
-\<div align="center">
-
 # ¡Hola! Soy Ana Perez 👩🏻‍💻
 
 ### Software Developer | Full Stack Development
